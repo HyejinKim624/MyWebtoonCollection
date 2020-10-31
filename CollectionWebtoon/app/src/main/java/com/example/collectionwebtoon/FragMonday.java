@@ -24,11 +24,14 @@ public class FragMonday extends Fragment{
         FloatingActionButton btn1 = view.findViewById(R.id.floatBtn1);
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
+            //플러스 버튼을 누르면 플랫폼과 웹툰명을 입력받는 팝업창이 뜸
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), PopupActivity.class);
                 startActivity(intent);
             }
         });
+
+
         return view;
 
     }

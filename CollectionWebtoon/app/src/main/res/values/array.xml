@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platformName">
+        <item>네이버 만화</item>
+        <item>다음 웹툰</item>
+        <item>레진코믹스</item>
+        <item>케이툰</item>
+        <item>투믹스</item>
+        <item>카카오페이지 만화</item>
+        <item>탑툰</item>
+        <item>폭스툰</item>
+        <item>배틀코믹스</item>
+        <item>코미코</item>
+        <item>미스터블루</item>
+        <item>봄툰</item>
+        <item>피너툰</item>
+        <item>코미카</item>
+        <item>마녀코믹스</item>
+        <item>레알코믹스</item>
+        <item>코믹큐브</item>
+        <item>진코믹스</item>
+        <item>윙툰</item>
+        <item>야툰</item>
+        <item>툰바</item>
+        <item>알파카코믹스</item>
+        <item>만화1번지</item>
+        <item>애니맥스플러스</item>
+        <item>만두코믹스</item>
+        <item>조이코믹스</item>
+        <item>빅툰</item>
+        <item>코코믹스</item>
+        <item>어른</item>
+        <item>케이코믹스</item>
+        <item>와우코믹스</item>
+        <item>바로툰</item>
+        <item>웹툰매니아</item>
+        <item>달콤</item>
+        <item>엔씨코믹스</item>
+        <item>스푼코믹스</item>
+        <item>기타</item>
+
+
+
+</string-array>
+
+</resources>

@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CollectionWebtoon">
-        <activity android:name=".PopupActivity"></activity>
+        <activity android:name=".PopupActivity1"></activity>
+        <activity android:name=".PopupActivity" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
