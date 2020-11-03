@@ -23,7 +23,7 @@ public class FragRecord extends Fragment {
     @Override
     //fragment 생명주기
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.frag_saturday,container,false);
+        View view = inflater.inflate(R.layout.frag_record,container,false);
 
         FloatingActionButton btn9 = view.findViewById(R.id.floatBtn9);
         btn9.setOnClickListener(new View.OnClickListener() {

@@ -8,9 +8,9 @@
 
     <ImageView
         android:id="@+id/logo_view"
+        android:src="@drawable/webtoon_collection_logo"
         android:layout_width="160dp"
         android:layout_height="160dp"
-        android:src="@drawable/logo_example"
         android:layout_centerInParent="true"/>
 
 </RelativeLayout>

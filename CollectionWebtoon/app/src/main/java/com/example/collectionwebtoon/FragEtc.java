@@ -14,21 +14,20 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 //기타 fragment
 public class FragEtc extends Fragment {
+    public FragEtc(){
 
-    //fragment 주기적 교체로 인한 상태 저장
-    public static FragEtc newinstance() {
-        FragEtc fragEtc = new FragEtc();
-        return fragEtc;
     }
 
-    @Nullable
+
     @Override
-    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.frag_etc, container, false);
+    //fragment 생명주기
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        View view = inflater.inflate(R.layout.frag_etc,container,false);
 
         FloatingActionButton btn8 = view.findViewById(R.id.floatBtn8);
         btn8.setOnClickListener(new View.OnClickListener() {
             @Override
+            //플러스 버튼을 누르면 플랫폼과 웹툰명을 입력받는 팝업창이 뜸
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), PopupActivity.class);
                 startActivity(intent);
