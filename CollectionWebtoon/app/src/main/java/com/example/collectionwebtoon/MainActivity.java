@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 overridePendingTransition(R.anim.loadfadein,R.anim.loadfadeout);
                 finish();
             }
-        }, 3000);
+        }, 1500);
 
     }
 }
