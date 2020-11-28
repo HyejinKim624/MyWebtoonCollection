@@ -10,12 +10,12 @@
 [바로가기][APPgithub]
 
 ### 만든 사람
-[김혜진][HJgithub] (한림대학교 일본학과 3학년)  
+[김혜진][HJgithub] ([한림대학교 일본학과][japanese] 3학년)  
 * 아이디어  
 * 디자인  
 * 데이터베이스  
 
-[이승희][SHgithub] (한림대학교 빅데이터 전공 2학년)  
+[이승희][SHgithub] ([한림대학교 빅데이터 전공][bigdata] 2학년)  
 * 파싱 및 기능 구현
 
 
@@ -28,3 +28,5 @@
 [APPgithub]: https://github.com/HyejinKim624/MyWebtoonCollection.git
 [HJgithub]: https://github.com/HyejinKim624
 [SHgithub]: https://github.com/dltmdgml
+[japanese]: http://japanese.hallym.ac.kr/japanese/index.do
+[bigdata]: https://sw.hallym.ac.kr/
